@@ -1,0 +1,18 @@
+plug in toaster
+open bread loaf
+remove slice of bread
+  repeat step 3
+  repeat step 3
+place slice of bread in toaster slot
+  repeat step 6
+  repeat step 6
+select toasting function
+wait for function to end
+else if toast does not possess desired doneness
+  go back to step 9
+else
+  spread butter on toasted slice
+    repeat step 14
+    repeat step 14
+else
+  eat
